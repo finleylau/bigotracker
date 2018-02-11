@@ -1,0 +1,79 @@
+{
+  "reports": [
+    {
+      "id": 1,
+      "lat": 41.7597,
+      "lng": -87.5897,
+      "description": "This was bad!",
+      "category": "sexuality",
+      "occured": "2018-02-11"
+    },
+    {
+      "lat": 41.76,
+      "lng": -87.5897,
+      "description": "This was very bad!",
+      "category": "gender",
+      "occured": "2018-02-12"
+    },
+    {
+      "lat": 41.762,
+      "lng": -87.5897,
+      "description": "This was really bad!",
+      "category": "harassment",
+      "occured": "2018-02-11"
+    },
+    {
+      "lat": 41.7625,
+      "lng": -87.5897,
+      "description": "This was also bad!",
+      "category": "racial",
+      "occured": "2018-02-11"
+    },
+    {
+      "lat": 41.763,
+      "lng": -87.603826,
+      "description": "Wow.",
+      "occured": "2018-02-11",
+      "category": "harassment"
+    },
+    {
+      "lat": 41.764,
+      "lng": -87.603826,
+      "description": "Uh oh...",
+      "occured": "2018-02-11",
+      "category": "sexuality"
+    },
+    {
+      "lat": 41.8031791,
+      "lng": -87.5889996,
+      "description": "This is another test",
+      "occured": "2018-02-09",
+      "category": "gender",
+      "id": 2
+    },
+    {
+      "lat": 41.803140299999995,
+      "lng": -87.5889996,
+      "description": "This is a third test.",
+      "occured": "2018-02-07",
+      "category": "gender",
+      "id": 3
+    },
+    {
+      "lat": 41.803140299999995,
+      "lng": -87.5889996,
+      "description": "This is a harassment report.",
+      "occured": "2018-02-01",
+      "category": "harassment",
+      "id": 4
+    },
+    {
+      "lat": 41.803140299999995,
+      "lng": -87.5889996,
+      "description": "This is a test",
+      "occured": "2018-01-30",
+      "category": "racial",
+      "id": 5
+    }
+  ]
+}
