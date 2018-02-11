@@ -74,6 +74,62 @@
       "occured": "2018-01-30",
       "category": "racial",
       "id": 5
-    }
+    },
+    {
+      "lat": 41.803140299999995,
+      "lng": -87.535,
+      "description": "This is a third test.",
+      "occured": "2018-02-07",
+      "category": "gender",
+      "id": 6
+    },
+    {
+      "lat": 41.803140299999995,
+      "lng": -87.555,
+      "description": "This is a harassment report.",
+      "occured": "2018-02-01",
+      "category": "harassment",
+      "id": 7
+    },
+    {
+      "lat": 41.803140299999995,
+      "lng": -87.54,
+      "description": "This is a test",
+      "occured": "2018-01-30",
+      "category": "racial",
+      "id": 8
+    },
+    {
+      "lat": 41.81,
+      "lng": -86.535,
+      "description": "This is a third test.",
+      "occured": "2018-02-07",
+      "category": "gender",
+      "id": 9
+    },
+    {
+      "lat": 41.303140299999995,
+      "lng": -87.4,
+      "description": "This is a harassment report.",
+      "occured": "2018-02-01",
+      "category": "harassment",
+      "id": 10
+    },
+    {
+      "lat": 41.503140299999995,
+      "lng": -87.3,
+      "description": "This is a test",
+      "occured": "2018-01-30",
+      "category": "racial",
+      "id": 11
+    },
+    {
+      "lat": 42.303140299999995,
+      "lng": -85.8,
+      "description": "This is a test",
+      "occured": "2018-01-30",
+      "category": "sexuality",
+      "id": 12
+    },
   ]
 }
